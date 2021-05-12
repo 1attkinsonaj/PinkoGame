@@ -8,6 +8,8 @@ var plinkos = [];
 var divisions =[];
 var divisionHeight=300;
 var score =0;
+var AJ1 = 0;
+//Variable AJ1 for GitBash testing.......
 function setup() {
   createCanvas(800, 800);
   engine = Engine.create();
